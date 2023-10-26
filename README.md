@@ -4,3 +4,4 @@ Gundel palacsinta
 #xd böngésző pull
 # vs code
 # vs code 2
+# konfliktus böngésző
